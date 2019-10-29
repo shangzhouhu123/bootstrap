@@ -1,0 +1,50 @@
+#bg{
+  background: 		#F8F8F8;
+}
+.jumbotron{
+  margin-top: 2%;
+}
+.jumu h4{
+  color: #ffffff;
+  padding-left: 1%;
+  padding-top: 1%;
+}
+.jumu p{
+  color: #ffffff;
+  padding-left: 1%;
+}
+.row{
+}
+.row .bgimg{
+  border: 2px solid  	#C0C0C0;
+  margin: 15px  0px;
+}
+.row img{
+  width: 100%;
+}
+.row h3{
+  padding-top: 5px;
+}
+.row p{
+  font-size: 15px;
+  padding-bottom:5px;
+}
+
+
+
+
+
+.bg{
+  background:#505050;
+  margin-top: 2%;
+}
+.bg ul{
+  padding:10px 0;
+  margin: 0;
+}
+.bg ul li a{
+  color: #ffffff;
+}
+.bg h6{
+    color: #ffffff;
+}
